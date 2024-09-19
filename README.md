@@ -1,4 +1,4 @@
-# NeSI support documentation
+# eRI Support Documentation
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/nesi/support-docs?quickstart=1)
 
