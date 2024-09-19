@@ -1,6 +1,10 @@
 :root {
-    --md-default-fg-color:               #C9445B;
-    --md-default-fg-color--light:        #1a0206;
+# NeSI 
+#   --md-default-fg-color:               #C9445B;
+#   --md-default-fg-color--light:        #1a0206;
+# AgR
+    --md-default-fg-color:               #8DC63F;
+    --md-default-fg-color--light:        #405965;
     --md-default-fg-color--lighter:      rgb(11,33,57,0.5);
     --md-default-fg-color--lightest:     rgb(11,33,57,0.1);
 
