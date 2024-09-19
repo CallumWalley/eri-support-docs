@@ -6,7 +6,7 @@
 
 This repository contains the sources files for the NeSI support documentation.
 
-Rendered pages are visible at [https://docs.nesi.org.nz](http://docs.nesi.org.nz).
+Rendered pages are visible at [NEW ADDRESS](NEW ADDRESS).
 
 ## Contents
 
