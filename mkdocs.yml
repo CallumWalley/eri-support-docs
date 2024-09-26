@@ -22,9 +22,9 @@ markdown_extensions:
   - neoteroi.timeline
   - footnotes
 extra:
-  analytics:
-    provider: google
-    property: G-TVQR4R1F40
+#  analytics:
+#    provider: google
+#    property: G-TVQR4R1F40
 plugins:
   - search
   - open-in-new-tab
@@ -36,19 +36,19 @@ plugins:
   - tags:
       tags: false  # This will keep tags for the purpose of indexing, but not display on page.
   - git-revision-date-localized:
-      enable_creation_date: false
+      enable_creation_date: true
   - macros:
       on_error_fail: true
       verbose: false 
       module_name: macro_hooks
       include_dir: overrides
 repo_name: GitHub
-repo_url: https://github.com/nesi/support-docs
+repo_url: https://github.com/MattBixley/eri-support-docs
 edit_uri: edit/main/docs/
-site_description: NeSI Support Documentation
+site_description: eRI Support Documentation
 site_dir: public
-site_name: NeSI Support Documentation
-site_url: https://docs.nesi.org.nz/
+site_name: eRI Support Documentation
+site_url: https://docs.nesi.org.nz/ # add my webaddress
 extra_css:
   - assets/stylesheets/neoteroi-mkdocs.css
   - assets/stylesheets/footer.css
@@ -56,7 +56,7 @@ extra_css:
   - assets/stylesheets/theme.css
 extra_javascript:
     - assets/javascripts/general.js
-    - https://status.nesi.org.nz/embed/script.js
+    - https://status.nesi.org.nz/embed/script.js #eri status address
 theme:
   custom_dir: overrides
   favicon: assets/icons/favicon.ico
