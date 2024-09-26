@@ -21,7 +21,7 @@ markdown_extensions:
   - neoteroi.cards
   - neoteroi.timeline
   - footnotes
-extra:
+# extra:
 #  analytics:
 #    provider: google
 #    property: G-TVQR4R1F40
@@ -48,7 +48,7 @@ edit_uri: edit/main/docs/
 site_description: eRI Support Documentation
 site_dir: public
 site_name: eRI Support Documentation
-site_url: https://docs.nesi.org.nz/ # add my webaddress
+site_url: mattbixley.github.io/eri-support-docs/
 extra_css:
   - assets/stylesheets/neoteroi-mkdocs.css
   - assets/stylesheets/footer.css
