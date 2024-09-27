@@ -48,7 +48,7 @@ edit_uri: edit/main/docs/
 site_description: eRI Support Documentation
 site_dir: public
 site_name: eRI Support Documentation
-site_url: mattbixley.github.io/eri-support-docs/
+site_url: https://mattbixley.github.io/eri-support-docs/
 extra_css:
   - assets/stylesheets/neoteroi-mkdocs.css
   - assets/stylesheets/footer.css
