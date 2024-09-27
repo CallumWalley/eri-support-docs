@@ -5,7 +5,7 @@ hide: toc
 
 # eRI Support Documentation
 
-Technical documentation for the NeSI High Performance Computing platform.
+Technical documentation for the eRI (eResearch Infrastructure) Computing platform.
 
 ## Quickstart
 
