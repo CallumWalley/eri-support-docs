@@ -2,9 +2,9 @@
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/nesi/support-docs?quickstart=1)
 
-[![Deploy to gh-pages](https://github.com/nesi/support-docs/actions/workflows/deploy.yml/badge.svg?branch=main&event=deployment_status)](https://github.com/nesi/support-docs/actions/workflows/deploy.yml)
+[![Deploy to gh-pages](https://github.com/MattBixley/support-docs/actions/workflows/deploy.yml/badge.svg?branch=main&event=deployment_status)](https://github.com/MattBixley/eri-support-docs/actions/workflows/deploy.yml)
 
-This repository contains the sources files for the NeSI support documentation.
+This repository contains the sources files for the eRI support documentation. Functionality sourced from the NeSI support pages setup.
 
 Rendered pages are visible at [NEW ADDRESS](NEW ADDRESS).
 
