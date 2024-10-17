@@ -4,11 +4,11 @@ tags: []
 title: File Recovery
 vote_count: 9
 vote_sum: 7
-zendesk_article_id: 360000207315
-zendesk_section_id: 360000042215
 ---
 
 ## Snapshots
+
+### Update for eRI Pathways
 
 Snapshots are read only copies of the file system taken every day at
 12:15, and retained for seven days.  
