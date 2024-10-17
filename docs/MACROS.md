@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-**[CLICK TO VIEW THIS PAGE RENDERED IN MKDOCS](https://nesi.github.io/support-docs/MACROS/)**{ .hidden }
+**[CLICK TO VIEW THIS PAGE RENDERED IN MKDOCS](https://https://mattbixley.github.io/eri-support-docs/MACROS/)**{ .hidden }
 
 ## Info about macros
 
