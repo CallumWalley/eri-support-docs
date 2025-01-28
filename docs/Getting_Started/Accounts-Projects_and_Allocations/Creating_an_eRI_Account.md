@@ -5,7 +5,7 @@ tags:
 - howto
 - access
 - eri
-title: Creating a eRI Account
+title: Creating an eRI Account
 ---
 
 !!! prerequisite
@@ -16,3 +16,4 @@ title: Creating a eRI Account
     * or via the eRI Support Portal
 
 !!! prerequisite "What next?"
+Have a project/compute allocation
