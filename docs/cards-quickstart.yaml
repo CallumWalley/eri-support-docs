@@ -1,11 +1,11 @@
 - title: eRI Accounts
   content: How to get started with eRI accounts and projects.
-  url: Getting_Started/Accounts-Projects_and_Allocations/Creating_a_NeSI_Account_Profile.md
+  url: Getting_Started/Accessing_eRI/Creating_an_eRI_Account.md
   image: ./assets/icons/material/account-details.svg
 
 - title: Cluster Access
   content: Recommended clients for Linux, Mac, and Windows users. 
-  url: Getting_Started/Accessing_the_HPCs/Choosing_and_Configuring_Software_for_Connecting_to_the_Clusters.md
+  url: Getting_Started/Accessing_eRI/Choosing_and_Configuring_Software_for_Connecting_to_the_Clusters.md
   image: ./assets/icons/material/compass.svg
 
 - title: SSH Config
