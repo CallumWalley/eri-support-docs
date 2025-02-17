@@ -20,8 +20,6 @@ def on_env(env, config, files, **kwargs):
     # add entire module list to keyword 'applications
     env.globals["applications"] = json.load(open(module_list_path))
     # take this out after site migration
-    env.globals["redirects"] = yaml.safe_load(open("docs/redirect_map_invert.yml"))
-
     # env.globals["domains"]=json.load(open('../tags/domains.json')).keys() # Needs list of cannon domains to make into
 
     # For image paths.
