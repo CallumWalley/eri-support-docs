@@ -5,4 +5,8 @@ production/*
 **.pyc
 .venv/**
 .ipynb_checkpoints
+public/*
+production/*
+**.pyc
+.venv/*
 dictionary.dic
